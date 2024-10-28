@@ -1,0 +1,10 @@
+package hr;
+
+public class HomePage {
+
+	public void features() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

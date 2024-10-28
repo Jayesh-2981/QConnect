@@ -1,0 +1,10 @@
+package hr;
+
+public class HR {
+
+	String name;
+	long contact;
+	String pass;
+	String email;
+	
+}
