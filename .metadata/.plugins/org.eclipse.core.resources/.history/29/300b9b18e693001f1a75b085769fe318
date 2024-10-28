@@ -1,0 +1,12 @@
+package hr;
+
+import java.util.Scanner;
+
+public class HomePage {
+	Scanner scanner = new Scanner(System.in);
+
+	public void features() {
+		System.out.println("HOME PAGE");
+	}
+
+}

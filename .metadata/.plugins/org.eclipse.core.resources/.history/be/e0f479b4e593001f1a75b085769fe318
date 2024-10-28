@@ -1,0 +1,10 @@
+package hr;
+
+public class ForgotPassword {
+
+	public void forgotPassWord() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
