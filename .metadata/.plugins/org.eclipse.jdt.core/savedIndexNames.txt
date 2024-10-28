@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\jadha\OneDrive\Desktop\Qspiders Project\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-3455928937.index
-334905394.index
