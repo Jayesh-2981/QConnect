@@ -20,13 +20,10 @@ public class HomePage {
 		System.out.print("Enter an option");
 		int opt = scanner.nextInt();
 		switch (opt) {
-		case 1: {
+		case 1 ->  {
 			addStudent();
-			break;
 		}
-		default:
-			System.out.println("Wrong Option Entered");
-			break;
+		default -> System.out.println("Wrong Option Entered");
 		}
 	}
 
