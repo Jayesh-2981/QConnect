@@ -1,0 +1,18 @@
+package hr;
+
+import java.util.Scanner;
+
+public class Login {
+	Scanner scanner = new Scanner(System.in);
+	HR hr;
+	
+	public void login() {
+		for(;;) {
+			System.out.println("1. LOGIN");
+			System.out.println("2. Create Account");
+			System.out.println();
+			System.out.println("Enter an option : ");
+		}
+	}
+
+}

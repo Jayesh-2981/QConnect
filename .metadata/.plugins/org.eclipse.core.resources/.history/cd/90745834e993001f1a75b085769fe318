@@ -1,0 +1,10 @@
+package hr;
+
+public class Student {
+	String name;
+	long contact;
+	String email;
+	String address;
+	String gender;
+
+}
