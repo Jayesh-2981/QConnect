@@ -15,16 +15,13 @@ public class Login {
 
 			int opt = scanner.nextInt();
 			switch (opt) {
-			case 1: {
+			case 1 ->  {
 				loginHR();
-				break;
 			}
-			case 2: {
+			case 2 ->  {
 				createAccount();
-				break;
 			}
-			default:
-				System.out.println("Wrong Option Entered");
+			default -> System.out.println("Wrong Option Entered");
 			}
 		}
 	}
